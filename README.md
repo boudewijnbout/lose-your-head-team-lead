@@ -2,7 +2,7 @@
 Onderstaande outline ga je gedurende deze taak in jouw eigen GitHub omgeving uitwerken. 
 De instructie vind je in: [docs/INSTRUCTIONS.md](docs/INSTRUCTIONS.md)
 
-# Teamlead Vervoerregio Amsterdam
+# Team lead Vervoerregio Amsterdam
 
 Squad: A, B en C
 <br>
